@@ -12,3 +12,6 @@ Example 013
 
 ### Lection 6
 Example
+
+### Lection 7
+Example 001
