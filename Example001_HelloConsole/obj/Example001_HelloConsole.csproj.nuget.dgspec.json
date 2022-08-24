@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Беловы\\OneDrive\\Рабочий стол\\Разработчик\\1 четверть\\Знакомство с языками программирования\\Lection_1\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "C:\\Users\\Беловы\\OneDrive\\Рабочий стол\\Разработчик\\1 четверть\\Знакомство с языками программирования\\Lections\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Беловы\\OneDrive\\Рабочий стол\\Разработчик\\1 четверть\\Знакомство с языками программирования\\Lection_1\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "C:\\Users\\Беловы\\OneDrive\\Рабочий стол\\Разработчик\\1 четверть\\Знакомство с языками программирования\\Lections\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Беловы\\OneDrive\\Рабочий стол\\Разработчик\\1 четверть\\Знакомство с языками программирования\\Lection_1\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\Беловы\\OneDrive\\Рабочий стол\\Разработчик\\1 четверть\\Знакомство с языками программирования\\Lections\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "C:\\Users\\Беловы\\OneDrive\\Рабочий стол\\Разработчик\\1 четверть\\Знакомство с языками программирования\\Lection_1\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectPath": "C:\\Users\\Беловы\\OneDrive\\Рабочий стол\\Разработчик\\1 четверть\\Знакомство с языками программирования\\Lections\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "packagesPath": "C:\\Users\\Беловы\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Беловы\\OneDrive\\Рабочий стол\\Разработчик\\1 четверть\\Знакомство с языками программирования\\Lection_1\\Example001_HelloConsole\\obj\\",
+        "outputPath": "C:\\Users\\Беловы\\OneDrive\\Рабочий стол\\Разработчик\\1 четверть\\Знакомство с языками программирования\\Lections\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Беловы\\AppData\\Roaming\\NuGet\\NuGet.Config"
